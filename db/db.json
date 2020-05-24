@@ -1,0 +1,92 @@
+{
+  "login": [
+    {"name":"djegba kokora", "password":"Pass@word."}
+  ],
+
+  "restaurant": [
+    {
+      "name": "resto de la cité rouge",
+      "address": "cite rouge",
+      "rating": "0",
+      "email": "restau@citerouge.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "DR Robert",
+      "address": "linaa",
+      "rating": "4",
+      "email": "b@bbbb.fr"
+    },
+    {
+      "id": 3,
+      "name": "Albertine",
+      "address": "achille",
+      "rating": "5",
+      "email": "c@cccc.ci"
+    },
+    {
+      "id": 4,
+      "name": "D gratiu",
+      "address": "albert",
+      "rating": "1.5",
+      "email": "da@dddd.com"
+    },
+    {
+      "id": 5,
+      "name": "AZ frenx",
+      "address": "beatrice",
+      "rating": "3.5",
+      "email": "e@eeeee.net"
+    },
+    {
+      "id": 6,
+      "name": "TH brind",
+      "address": "anas",
+      "rating": "0.5",
+      "email": "rr@rrrr.sf"
+    },
+    {
+      "id": 7,
+      "name": "Kr KIST",
+      "address": "lance",
+      "rating": "2",
+      "email": "kjhg@test.com"
+    },
+    {
+      "name": "sdfgh",
+      "address": "fghnjk",
+      "rating": "25",
+      "email": "zegtyhj@dsfg",
+      "id": 9
+    },
+    {
+      "name": "TETST",
+      "address": "angre 2 pltx",
+      "rating": "56",
+      "email": "tetst@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "BIC",
+      "address": "CAMPUS COCODY",
+      "rating": "3",
+      "email": "BIC@CAMPUSCOCODY",
+      "id": 11
+    },
+    {
+      "name": "restau du campus",
+      "address": "cocody cité étudiante pres du bat de recherche",
+      "rating": "2",
+      "email": "restaucampus@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Restau Bacongo",
+      "address": "pres de la présidence univ",
+      "rating": "5",
+      "email": "restauBacongo@gmail.com",
+      "id": 14
+    }
+  ]
+}

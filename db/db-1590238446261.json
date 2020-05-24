@@ -1,0 +1,53 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "json-resto",
+      "address": "anil",
+      "rating": "4.5",
+      "email": "a@aaaa.com"
+    },
+    {
+      "id": 2,
+      "name": "DR Robert",
+      "address": "linaa",
+      "rating": "4",
+      "email": "b@bbbb.fr"
+    },
+    {
+      "id": 3,
+      "name": "Albertine",
+      "address": "achille",
+      "rating": "5",
+      "email": "c@cccc.ci"
+    },
+    {
+      "id": 4,
+      "name": "D gratiu",
+      "address": "albert",
+      "rating": "1.5",
+      "email": "da@dddd.com"
+    },
+    {
+      "id": 5,
+      "name": "AZ frenx",
+      "address": "beatrice",
+      "rating": "3.5",
+      "email": "e@eeeee.net"
+    },
+    {
+      "id": 6,
+      "name": "TH brind",
+      "address": "anas",
+      "rating": "0.5",
+      "email": "rr@rrrr.sf"
+    },
+    {
+      "id": 7,
+      "name": "Kr KIST",
+      "address": "lance",
+      "rating": "2",
+      "email": "kjhg@test.com"
+    }
+  ]
+}
